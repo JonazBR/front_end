@@ -11,7 +11,8 @@ nav ul li a{
     color: #FFC1C1;
     text-decoration:none;
     font-family: 'Mansalva', cursive;
-    vertical-align: auto;
+    line-height: 100px;
+    
     
 }
 nav ul li{
