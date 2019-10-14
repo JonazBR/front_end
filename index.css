@@ -1,0 +1,7 @@
+* {
+    text-decoration:none;
+}
+
+header , main , footer {
+    font-family: 'Montserrat', sans-serif;
+}
