@@ -58,3 +58,15 @@ footer ul{
     justify-content: space-between;
     line-height: 100px;
 }
+.footer-sm {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 30px;
+    color:#FF6A6A;
+}
+.container_do_footer {
+    width:15%;
+    margin: auto;
+    margin-top: 50px;
+}
