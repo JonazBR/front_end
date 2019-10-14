@@ -28,8 +28,6 @@ nav ul li{
     border-radius: 10%;
     list-style:none;
     text-align: center;
-    
-    
 }
 
 html{
@@ -74,4 +72,18 @@ footer ul{
     width:15%;
     margin: auto;
     margin-top: 50px;
+}
+
+.deitado li {
+    margin-right: 3%;
+} 
+
+.deitado > ul > li:nth-child(3) {
+    margin-right: 0%;
+}
+
+.deitado ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
 }
